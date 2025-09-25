@@ -4,6 +4,8 @@ Want to interact with your documents like you're chatting with an expert? LangCh
 ## Demo
 This project uses documents crawled from "https://python.langchain.com/docs/introduction/", then extracts and ingests them into Pinecone.
 
+https://github.com/user-attachments/assets/685659ce-27c1-41b8-8ffa-7c644a994e43
+
 ## Technology
 Backend
 - Language: Python
